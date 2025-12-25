@@ -1,0 +1,1 @@
+void readDirectory(const char* dirname);
