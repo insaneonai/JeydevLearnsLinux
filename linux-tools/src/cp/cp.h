@@ -1,0 +1,1 @@
+void copyFile(const char *srcPath, const char *destPath);
