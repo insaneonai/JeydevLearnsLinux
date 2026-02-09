@@ -1,0 +1,1 @@
+void removeFile(const char *filename);
