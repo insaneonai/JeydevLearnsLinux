@@ -1,0 +1,1 @@
+void makedir(const char *dirname, mode_t mode);
