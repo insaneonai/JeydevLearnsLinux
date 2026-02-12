@@ -1,0 +1,1 @@
+void removedir(const char *dirname);
